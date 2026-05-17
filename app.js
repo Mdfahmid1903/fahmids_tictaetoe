@@ -44,6 +44,7 @@ let resetGame = () => {
      player1 = true;
      enableBoxes();
      msgcontainer.classList.add("hide");
+     count = 0;
 }
 let enableBoxes = () => {
     boxes.forEach((box) => {
