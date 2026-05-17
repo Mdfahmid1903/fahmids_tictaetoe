@@ -12,7 +12,7 @@ body {
     flex-direction: column;
 }
 .msg-container{
-    height: 100vmin;
+    height: 50vmin;
     display: flex;
     flex-direction: column;
     justify-content: center;
