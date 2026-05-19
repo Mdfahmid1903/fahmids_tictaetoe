@@ -54,6 +54,18 @@ h1 {
     text-align: center;
     color: black;
 }
+#vscomputer{
+     height: 50px;
+    width: 120px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1rem;
+    border: none;
+}
 
 .container {
     height: 80vmin;
