@@ -33,7 +33,7 @@ boxes.forEach((box) => {
         box.disabled = true;
         wincheck();
 count++;
-if (count == 9) {
+if (count == 9  && msgcontainer.classList.contains("hide")) {
                 msg.innerText = "Match Draw";
                 msgcontainer.classList.remove("hide");
             }
